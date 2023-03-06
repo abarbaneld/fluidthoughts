@@ -1,8 +1,8 @@
 # A Movie record
 data:
-  title: 
+  title: The Delimma
   tagLine: 
-  image: /data/movies/RoadTrip/Poster.jpg
+  image: /data/movies/TheDelimma/Poster.jpg
   rating: 
   year: 
   genre:

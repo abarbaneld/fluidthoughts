@@ -1,18 +1,18 @@
 # A Movie record
 data:
-  title: 
+  title: A Night at the Roxbury
   tagLine: 
-  image: /data/movies/RoadTrip/Poster.jpg
-  rating: 
-  year: 
-  genre:
-    - 
-  length: 
+  image: /data/movies/ANightAtTheRoxbury/Poster.jpg
+  rating: PG-13
+  year: 1998
+  genre: 
+    - Comedy
+  length: 1h 22m
   description: 
-    <p></p>
+    <p>Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.</p>
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://
-  reviewRating: 1
+    - serviceLink: https://www.amazon.com/Night-at-Roxbury-Will-Ferrell/dp/B008PZZHFU/ref=sr_1_1?keywords=a+night+at+the+roxbury&qid=1678136095&s=instant-video&sprefix=A+Night%2Cinstant-video%2C163&sr=1-1
+  reviewRating: 6
   reviewComments: 
