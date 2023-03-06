@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: 
+  tagLine: 
+  image: /data/movies/RoadTrip/Poster.jpg
+  rating: 
+  year: 
+  genre:
+    - 
+  length: 
+  description: 
+    <p></p>
+  featured: false
+  services:
+    - service: Amazon Prime
+    - serviceLink: https://
+  reviewRating: 1
+  reviewComments: 
