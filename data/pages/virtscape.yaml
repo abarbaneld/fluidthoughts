@@ -1,0 +1,9 @@
+# An employee record
+data:
+  title: Virtscape
+  subTitle: One Place One Time
+  image: https://picsum.photos/350/165?random
+  body: 
+    <p>Virtscape is todays solution for the fragmentation when managing todays virtual environments</p>
+    <p>More information coming soon</p>
+  featured: false  

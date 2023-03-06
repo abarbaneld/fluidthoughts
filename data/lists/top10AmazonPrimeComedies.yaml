@@ -1,0 +1,57 @@
+# A Movie record
+data:
+  title: Top 10 Amazon Prime Comedies
+  startDate: 2/23/2023
+  endDate: 3/6/2023
+  movies:
+    - title: Once Bitten
+      id: OnceBitten
+      date: 2/23/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Road Trip
+      id: RoadTrip
+      date: 2/24/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Private Parts
+      id: PrivateParts
+      date: 2/25/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Blankman
+      id: Blankman
+      date: 2/26/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Bruce Almighty
+      id: BruceAlmighty
+      date: 2/28/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Scary Movie 4
+      id: ScareMovie4
+      date: 3/1/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: A Night at the Roxbury
+      id: ANightAtTheRoxbury
+      date: 3/2/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Role Models
+      id: RoleModels
+      date: 3/3/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: The Delimma
+      id: TheDelimma
+      date: 3/4/2023
+      service: Amazon Prime
+      serviceLink: https://
+    - title: Summer Rental
+      id: SummerRental
+      date: 3/6/2023
+      service: Amazon Prime
+      serviceLink: https://
+  genre: Comedy

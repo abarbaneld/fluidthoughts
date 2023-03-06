@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Road Trip
+  tagLine: 
+  image: /data/movies/RoadTrip/Poster.jpg
+  rating: R
+  year: 2000
+  genre:
+    - Comedy
+  length: 1h 34m
+  description: 
+    <p>Josh (Breckin Meyer) videotapes his affair with another girl and accidentally mails it to his girlfriend. Discovering the mistake, he tows two of his college buddies -- and one not-so-eager kid who happens to own the car -- on a raucous 1,800-mile road trip from Ithaca, N.Y., to Austin, Texas, to save his lifelong romance.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+    - serviceLink: https://
+  reviewRating: 7
+  reviewComments: 
