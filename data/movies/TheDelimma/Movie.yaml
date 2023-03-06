@@ -3,16 +3,17 @@ data:
   title: The Delimma
   tagLine: 
   image: /data/movies/TheDelimma/Poster.jpg
-  rating: 
-  year: 
+  rating: PG-13
+  year: 2013
   genre:
-    - 
-  length: 
+    - Comedy
+  length: 1h 51m
   description: 
-    <p></p>
+    <p>A man discovers that his best friend's wife is having an affair and agonizes over what might happen if the truth gets out.</p>
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://
+    - serviceLink: https://www.amazon.com/Dilemma-Vince-Vaughn/dp/B004RC593U/ref=sr_1_1?crid=2R6FCOQYGC5W8&keywords=The+Delimma&qid=1678138601&s=instant-video&sprefix=the+delimma%2Cinstant-video%2C117&sr=1-1
   reviewRating: 1
   reviewComments: 
+    This movie absolutely sucked. It was not that funny at all and at times really boring.
