@@ -1,0 +1,19 @@
+# A Movie record
+data:
+  title: Default Template
+  tagLine: 
+  image: /data/movies/_Default_/Poster.jpg
+  rating: G
+  year: 1977
+  genre:
+    - default
+  length: 
+  description: 
+    <p>This is a default movie</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://amazon.com
+  reviewRating: 1
+  reviewComments:
+    This is just a default template. A movie should be added to the database soon. 
