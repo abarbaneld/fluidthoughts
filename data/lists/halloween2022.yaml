@@ -4,7 +4,7 @@ data:
   startDate: 10/1/2022
   endDate: 10/31/2022
   movies:
-    - title: Hellraiser 2&colon; Hell Bound (1988)
+    - title: "Hellraiser 2: Hell Bound (1988)"
       id: _Default_
       date: 10/1/2022
       service: 
@@ -22,7 +22,7 @@ data:
       service: 
       serviceLink: 
       rating: 1
-    - title: Blair Witch 2&colon; Book of Shadows (2000)
+    - title: "Blair Witch 2: Book of Shadows (2000)"
       id: _Default_
       date: 10/4/2022
       service: 
