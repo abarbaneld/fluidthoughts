@@ -13,6 +13,6 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/Private-Parts-Howard-Stern/dp/B008Q00QFK/ref=sr_1_1?crid=3HTOBOMVGE4B5&keywords=Private+Parts&qid=1678136584&s=instant-video&sprefix=private+parts%2Cinstant-video%2C167&sr=1-1
+      serviceLink: https://www.amazon.com/Private-Parts-Howard-Stern/dp/B008Q00QFK/ref=sr_1_1?crid=3HTOBOMVGE4B5&keywords=Private+Parts&qid=1678136584&s=instant-video&sprefix=private+parts%2Cinstant-video%2C167&sr=1-1
   reviewRating: 6
   reviewComments: 

@@ -2,9 +2,9 @@
 data:
   - title: Its all about movies
     subTitle: New focus for the site is Movies.
-    image: https://cdn.vuetifyjs.com/images/cards/docks.jpg
+    image: /newsbg-1.webp
     content: <div>New Focus</div><div></div>We were already heading this way, now we are focusing Movies.
   - title: New Site
     subTitle: We have a new home
-    image: https://img.freepik.com/premium-photo/abstract-cube-background-construction-block-background_1962-1829.jpg
+    image: /newsbg-2.jpeg
     content: <p>We have moved our site to a more modern platform.</p>

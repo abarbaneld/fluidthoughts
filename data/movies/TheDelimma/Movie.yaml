@@ -13,7 +13,7 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/Dilemma-Vince-Vaughn/dp/B004RC593U/ref=sr_1_1?crid=2R6FCOQYGC5W8&keywords=The+Delimma&qid=1678138601&s=instant-video&sprefix=the+delimma%2Cinstant-video%2C117&sr=1-1
+      serviceLink: https://www.amazon.com/Dilemma-Vince-Vaughn/dp/B004RC593U/ref=sr_1_1?crid=2R6FCOQYGC5W8&keywords=The+Delimma&qid=1678138601&s=instant-video&sprefix=the+delimma%2Cinstant-video%2C117&sr=1-1
   reviewRating: 1
   reviewComments: 
     This movie absolutely sucked. It was not that funny at all and at times really boring.

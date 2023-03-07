@@ -13,6 +13,6 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/Bruce-Almighty-Jim-Carrey/dp/B009CG3OPQ/ref=sr_1_1?crid=3DUQAA42GLQDK&keywords=bruce+almighty&qid=1678136329&s=instant-video&sprefix=Bruce+%2Cinstant-video%2C121&sr=1-1
+      serviceLink: https://www.amazon.com/Bruce-Almighty-Jim-Carrey/dp/B009CG3OPQ/ref=sr_1_1?crid=3DUQAA42GLQDK&keywords=bruce+almighty&qid=1678136329&s=instant-video&sprefix=Bruce+%2Cinstant-video%2C121&sr=1-1
   reviewRating: 6
   reviewComments: 

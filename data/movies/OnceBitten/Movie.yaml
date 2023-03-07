@@ -13,6 +13,6 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/Once-Bitten-Jim-Carrey/dp/B081QXP44W/ref=sr_1_1?crid=3QPTR8L5ZL3RO&keywords=Once+Bitten&qid=1678136396&s=instant-video&sprefix=once+bitten%2Cinstant-video%2C155&sr=1-1
+      serviceLink: https://www.amazon.com/Once-Bitten-Jim-Carrey/dp/B081QXP44W/ref=sr_1_1?crid=3QPTR8L5ZL3RO&keywords=Once+Bitten&qid=1678136396&s=instant-video&sprefix=once+bitten%2Cinstant-video%2C155&sr=1-1
   reviewRating: 3
   reviewComments: 

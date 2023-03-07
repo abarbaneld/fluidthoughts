@@ -13,6 +13,6 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/Blankman-Robin-Givens/dp/B000RLBCD6/ref=sr_1_1?crid=FVXWXY97GR0G&keywords=Blankman&qid=1678136130&s=instant-video&sprefix=blankman%2Cinstant-video%2C181&sr=1-1
+      serviceLink: https://www.amazon.com/Blankman-Robin-Givens/dp/B000RLBCD6/ref=sr_1_1?crid=FVXWXY97GR0G&keywords=Blankman&qid=1678136130&s=instant-video&sprefix=blankman%2Cinstant-video%2C181&sr=1-1
   reviewRating: 5
   reviewComments: 
