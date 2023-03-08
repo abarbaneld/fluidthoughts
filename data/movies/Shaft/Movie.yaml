@@ -13,6 +13,6 @@ data:
   featured: false
   services:
     - service: Amazon Prime
-    - serviceLink: https://www.amazon.com/gp/video/detail/B0036OF8OK/ref=atv_br_def_r_br_c_I27UAOsmr_1_83
+      serviceLink: https://www.amazon.com/gp/video/detail/B0036OF8OK/ref=atv_br_def_r_br_c_I27UAOsmr_1_83
   reviewRating: 
   reviewComments: 
