@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Shaft
+  tagLine: 
+  image: /data/movies/Shaft/Poster.jpg
+  rating: R
+  year: 2000
+  genre:
+    - Action
+  length: 1h 51m
+  description: 
+    <p>New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+    - serviceLink: https://www.amazon.com/gp/video/detail/B0036OF8OK/ref=atv_br_def_r_br_c_I27UAOsmr_1_83
+  reviewRating: 
+  reviewComments: 

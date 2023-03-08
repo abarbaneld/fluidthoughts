@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Creed II
+  tagLine: 
+  image: /data/movies/Creed2/Poster.jpg
+  rating: PG-13
+  year: 2018
+  genre:
+    - Action
+  length: 2h 10m
+  description: 
+    <p>Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B07KPZNVTQ/ref=atv_br_def_r_br_c_unkc_1_19
+  reviewRating: 
+  reviewComments:

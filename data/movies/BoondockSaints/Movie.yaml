@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Boondock Saints
+  tagLine: 
+  image: /data/movies/BoondockSaints/Poster.jpg
+  rating: R
+  year: 1999
+  genre:
+    - Action
+  length: 1h 48m
+  description: 
+    <p>Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+    - serviceLink: https://www.amazon.com/gp/video/detail/B07QXBXBHH/ref=atv_br_def_r_br_c_I27UAOsmr_1_116
+  reviewRating: 
+  reviewComments: 

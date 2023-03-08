@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: The Scorpion King
+  tagLine: 
+  image: /data/movies/TheScorpionKing/Poster.jpg
+  rating: PG-13
+  year: 2002
+  genre:
+    - Action
+  length: 1h 32m
+  description: 
+    <p>A desert warrior rises up against the evil army that is destroying his homeland. He captures the enemy's key sorcerer, takes her deep into the desert and prepares for a final showdown.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+    - serviceLink: https://www.amazon.com/gp/video/detail/B0019IGNRQ/ref=atv_br_def_r_br_c_I27UAOsmr_1_34
+  reviewRating: 
+  reviewComments: 

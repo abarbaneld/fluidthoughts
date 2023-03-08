@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Expendables 3
+  tagLine: 
+  image: /data/movies/Expendables3/Poster.jpg
+  rating: PG-13
+  year: 2014
+  genre:
+    - Action
+  length: 2h 6m
+  description: 
+    <p>Barney augments his team with new blood for a personal battle, to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B00PGANUOW/ref=atv_br_def_r_br_c_I27UAOsmr_1_122
+  reviewRating: 
+  reviewComments:

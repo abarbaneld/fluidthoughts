@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Road House
+  tagLine: 
+  image: /data/movies/RoadHouse/Poster.jpg
+  rating: R
+  year: 1989
+  genre:
+    - Action
+  length: 1h 54m
+  description: 
+    <p>A tough bouncer is hired to tame a dirty bar.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B00FJUKLPK/ref=atv_br_def_r_br_c_I27UAOsmr_1_141
+  reviewRating: 
+  reviewComments:

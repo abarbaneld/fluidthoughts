@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Escape from Neew York
+  tagLine: 
+  image: /data/movies/EscapeFromNewYork/Poster.jpg
+  rating: R
+  year: 1981
+  genre:
+    - Action
+  length: 1h 39m
+  description: 
+    <p>In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B00B19DW0E/ref=atv_br_def_r_br_c_I27UAOsmr_1_86
+  reviewRating: 
+  reviewComments:

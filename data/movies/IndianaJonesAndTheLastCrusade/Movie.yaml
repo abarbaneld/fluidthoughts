@@ -1,0 +1,19 @@
+# A Movie record
+data:
+  title: Indiana Jones And The Last Crusade
+  tagLine: 
+  image: /data/movies/IndianaJonesAndTheLastCrusade/Poster.jpg
+  rating: PG-13
+  year: 1989
+  genre:
+    - Action
+  length: 2h 7m
+  description: 
+    <p>In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B00GIVOXVW/ref=atv_br_def_r_br_c_I27UAOsmr_1_24
+  reviewRating: 
+  reviewComments:
+    

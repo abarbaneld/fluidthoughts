@@ -1,0 +1,18 @@
+# A Movie record
+data:
+  title: Highlander The Movie
+  tagLine: 
+  image: /data/movies/Highlander/Poster.jpg
+  rating: R
+  year: 1986
+  genre:
+    - Action
+  length: 
+  description: 
+    <p>An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".</p>
+  featured: false
+  services:
+    - service: Amazon Prime
+      serviceLink: https://www.amazon.com/gp/video/detail/B0051E9INK/ref=atv_br_def_r_br_c_I27UAOsmr_1_175
+  reviewRating: 
+  reviewComments:
