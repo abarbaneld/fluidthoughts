@@ -1,7 +1,7 @@
 # Top 10 list
 data:
   id: top10AmazonPrimeAction
-  title: Top 10 Amazon Prime Action Flick
+  title: Top 10 Amazon Prime Action Flicks
   startDate: TBD
   endDate: TBD
   movies:
