@@ -1,0 +1,13 @@
+data:
+  dbVersion: 1
+  dbName: fluidthoughts.net
+  dbStoreName: lists
+  lists:
+    - id: top10AmazonPrimeComedies
+      title: Top 10 Amazon Prime Comedies
+      startDate: 2/23/2023
+      endDate: 3/6/2023
+    - id: top10AmazonPrimeAction
+      title: Top 10 Amazon Prime Action Flicks
+      startDate: 3/12/2023
+      endDate: 3/21/2023

@@ -10,19 +10,19 @@ data:
       date: 3/12/2023
       service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B00GIVOXVW/ref=atv_br_def_r_br_c_I27UAOsmr_1_24
-      rating: 
+      rating: 9
     - title: Creed II
       id: Creed2
       date: 3/13/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B07KPZNVTQ/ref=atv_br_def_r_br_c_unkc_1_19
-      rating: 
+      rating: 9
     - title: The Scorpion King
       id: TheScorpionKing
       date: 3/14/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B0019IGNRQ/ref=atv_br_def_r_br_c_I27UAOsmr_1_34
-      rating: 
+      rating: 6
     - title: Wanted
       id: Wanted
       date: 3/15/2023
@@ -34,19 +34,19 @@ data:
       date: 3/16/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B00B19DW0E/ref=atv_br_def_r_br_c_I27UAOsmr_1_86
-      rating: 
+      rating: 7
     - title: Shaft
       id: Shaft
       date: 3/17/2023
       service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B0036OF8OK/ref=atv_br_def_r_br_c_I27UAOsmr_1_83
-      rating: 
+      rating: 8
     - title: Boondock Saints
       id: BoondockSaints
       date: 3/18/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B07QXBXBHH/ref=atv_br_def_r_br_c_I27UAOsmr_1_116
-      rating: 
+      rating: 8
     - title: Expendables 3
       id: Expendables3
       date: 3/19/2023

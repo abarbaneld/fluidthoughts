@@ -1,0 +1,1 @@
+import{_ as t,o,d as n,h as s}from"./index.3f7dfc2f.js";const a={name:"RatingBlock"},_={class:"rating"};function c(e,r,d,i,l,p){return o(),n("div",_,[s(e.$slots,"default",{},void 0,!0)])}const u=t(a,[["render",c],["__scopeId","data-v-af143218"]]);export{u as R};
