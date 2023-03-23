@@ -11,6 +11,7 @@ data:
   description: 
     <p>An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".</p>
   featured: false
+  trailer: https://www.youtube.com/embed/5tGgqyhCIXQ
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B0051E9INK/ref=atv_br_def_r_br_c_I27UAOsmr_1_175

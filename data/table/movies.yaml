@@ -1,6 +1,6 @@
 # A Movie record
 data:
-  dbVersion: 1
+  dbVersion: 2
   dbName: fluidthoughts.net
   dbStoreName: movies
   movies:
@@ -19,6 +19,7 @@ data:
       description: 
         <p>Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Night-at-Roxbury-Will-Ferrell/dp/B008PZZHFU/ref=sr_1_1?keywords=a+night+at+the+roxbury&qid=1678136095&s=instant-video&sprefix=A+Night%2Cinstant-video%2C163&sr=1-1
@@ -38,6 +39,7 @@ data:
       description: 
         <p>A simpleton inventor becomes a superhero with a bulletproof costume and a low budget.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Blankman-Robin-Givens/dp/B000RLBCD6/ref=sr_1_1?crid=FVXWXY97GR0G&keywords=Blankman&qid=1678136130&s=instant-video&sprefix=blankman%2Cinstant-video%2C181&sr=1-1
@@ -57,6 +59,7 @@ data:
       description: 
         <p>Two Irish Catholic brothers become vigilantes and wipe out Boston's criminal underworld in the name of God.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/kkQiVY7vsIw
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B07QXBXBHH/ref=atv_br_def_r_br_c_I27UAOsmr_1_116
@@ -76,6 +79,7 @@ data:
       description: 
         <p>A whiny news reporter is given the chance to step into God's shoes.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Bruce-Almighty-Jim-Carrey/dp/B009CG3OPQ/ref=sr_1_1?crid=3DUQAA42GLQDK&keywords=bruce+almighty&qid=1678136329&s=instant-video&sprefix=Bruce+%2Cinstant-video%2C121&sr=1-1
@@ -95,6 +99,7 @@ data:
       description: 
         <p>Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/u22BXhMu4tI
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B07KPZNVTQ/ref=atv_br_def_r_br_c_unkc_1_19
@@ -114,6 +119,7 @@ data:
       description: 
         <p>In 1997, when the U.S. president crashes into Manhattan, now a giant maximum security prison, a convicted bank robber is sent in to rescue him.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/10OoccK7dIw
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B00B19DW0E/ref=atv_br_def_r_br_c_I27UAOsmr_1_86
@@ -133,10 +139,11 @@ data:
       description: 
         <p>Barney augments his team with new blood for a personal battle, to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/OuXkXJ1fPuk
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B00PGANUOW/ref=atv_br_def_r_br_c_I27UAOsmr_1_122
-      reviewRating: 
+      reviewRating: 9
       reviewComments:
     - id: Highlander
       title: Highlander The Movie
@@ -152,6 +159,7 @@ data:
       description: 
         <p>An immortal Scottish swordsman must confront the last of his immortal opponent, a murderously brutal barbarian who lusts for the fabled "Prize".</p>
       featured: false
+      trailer: https://www.youtube.com/embed/5tGgqyhCIXQ
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B0051E9INK/ref=atv_br_def_r_br_c_I27UAOsmr_1_175
@@ -171,6 +179,7 @@ data:
       description: 
         <p>In 1938, after his father goes missing while pursuing the Holy Grail, Indiana Jones finds himself up against the Nazis again to stop them from obtaining its powers.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B00GIVOXVW/ref=atv_br_def_r_br_c_I27UAOsmr_1_24
@@ -190,6 +199,7 @@ data:
       description: 
         <p>A vampire Countess needs to drink the blood of a virgin in order to keep her eternal beauty. It seems that all is hopeless, until she bumps into Mark Kendall.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Once-Bitten-Jim-Carrey/dp/B081QXP44W/ref=sr_1_1?crid=3QPTR8L5ZL3RO&keywords=Once+Bitten&qid=1678136396&s=instant-video&sprefix=once+bitten%2Cinstant-video%2C155&sr=1-1
@@ -209,6 +219,7 @@ data:
       description: 
         <p>The autobiographical story of Howard Stern, the radio rebel who is now also a TV personality, an author and a movie star.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Private-Parts-Howard-Stern/dp/B008Q00QFK/ref=sr_1_1?crid=3HTOBOMVGE4B5&keywords=Private+Parts&qid=1678136584&s=instant-video&sprefix=private+parts%2Cinstant-video%2C167&sr=1-1
@@ -228,6 +239,7 @@ data:
       description: 
         <p>A tough bouncer is hired to tame a dirty bar.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/YH3BMICpXyA
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B00FJUKLPK/ref=atv_br_def_r_br_c_I27UAOsmr_1_141
@@ -247,6 +259,7 @@ data:
       description: 
         <p>Josh (Breckin Meyer) videotapes his affair with another girl and accidentally mails it to his girlfriend. Discovering the mistake, he tows two of his college buddies -- and one not-so-eager kid who happens to own the car -- on a raucous 1,800-mile road trip from Ithaca, N.Y., to Austin, Texas, to save his lifelong romance.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Road-Trip-Breckin-Meyer/dp/B00581BQG8/ref=sr_1_1?crid=370YWVIKLQ6G0&keywords=Road+Trip&qid=1678145089&s=instant-video&sprefix=road+trip%2Cinstant-video%2C99&sr=1-1
@@ -266,6 +279,7 @@ data:
       description: 
         <p>After salesmen Danny (Paul Rudd) and Wheeler (Seann William Scott) trash a company truck, the court gives them a choice, jail time or community service in a mentoring program. Thinking to take the easy way out, the two overgrown adolescents find themselves paired with a teenager (Christopher Mintz-Plasse), who is experiencing the pangs of first love, and a foul-mouthed fifth-grader (Bobb'e J. Thompson), who needs an attitude adjustment.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Models-Unrated-Seann-William-Scott/dp/B009CGQ2YG/ref=sr_1_1?crid=5B64GH54ZAP9&keywords=Role+Models&qid=1678145120&s=instant-video&sprefix=role+models%2Cinstant-video%2C98&sr=1-1
@@ -285,6 +299,7 @@ data:
       description: 
         <p>Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien "Tr-iPods" are invading the world and she has to uncover the secret in order to stop them.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Scary-Movie-4-Anna-Faris/dp/B009TGX4AY/ref=sr_1_1?crid=MJPZPZ9VVS1W&keywords=Scary+Movie+4&qid=1678136794&s=instant-video&sprefix=scary+movie+4%2Cinstant-video%2C93&sr=1-1
@@ -304,6 +319,7 @@ data:
       description: 
         <p>New York City police detective John Shaft (nephew of the original 1970s detective) goes on a personal mission to make sure the son of a real estate tycoon is brought to justice after a racially-motivated murder.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DN1fTxkyWTc
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B0036OF8OK/ref=atv_br_def_r_br_c_I27UAOsmr_1_83
@@ -323,6 +339,7 @@ data:
       description: 
         <p>An overworked air-traffic controller takes his family on a beach vacation but is soon beset by series of mishaps.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Summer-Rental-Carl-Reiner/dp/B0080LB5KA/ref=sr_1_1?crid=12OWK667NQ9NL&keywords=Summer+Rental&qid=1678136827&s=instant-video&sprefix=summer+rental%2Cinstant-video%2C88&sr=1-1
@@ -343,6 +360,7 @@ data:
       description: 
         <p>A man discovers that his best friend's wife is having an affair and agonizes over what might happen if the truth gets out.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/DKg36LBVgfg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Dilemma-Vince-Vaughn/dp/B004RC593U/ref=sr_1_1?crid=2R6FCOQYGC5W8&keywords=The+Delimma&qid=1678138601&s=instant-video&sprefix=the+delimma%2Cinstant-video%2C117&sr=1-1
@@ -363,6 +381,7 @@ data:
       description: 
         <p>A desert warrior rises up against the evil army that is destroying his homeland. He captures the enemy's key sorcerer, takes her deep into the desert and prepares for a final showdown.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/b7nmYiZ6cAg
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B0019IGNRQ/ref=atv_br_def_r_br_c_I27UAOsmr_1_34
@@ -382,6 +401,7 @@ data:
       description: 
         <p>A frustrated office worker discovers that he is the son of a professional assassin, and that he shares his father's superhuman killing abilities.</p>
       featured: false
+      trailer: https://www.youtube.com/embed/edpEspHOeVU
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/search/ref=atv_hm_hom_3_c_i27uao_9_smr?queryToken=eyJ0eXBlIjoicXVlcnkiLCJuYXYiOnRydWUsInBpIjoiZGVmYXVsdCIsInNlYyI6ImNlbnRlciIsInN0eXBlIjoic2VhcmNoIiwicXJ5IjoiZmllbGQtd2F5c190b193YXRjaD0xMjAwNzg2NTAxMSZwX25fZW50aXR5X3R5cGU9MTQwNjkxODQwMTEmYWR1bHQtcHJvZHVjdD0wJmJxPShhbmQgKGFuZCAoYW5kIGZpZWxkLWlzX3ByaW1lX2JlbmVmaXQ6JzEnIChub3QgKG9yIGdlbnJlOidhdl9nZW5yZV9lcm90aWMnIGF2X3ByaW1hcnlfZ2VucmU6J2F2X2dlbnJlX2Vyb3RpYycpKSAobm90IChvciBnZW5yZTonYXZfZ2VucmVfa2lkcycgYXZfcHJpbWFyeV9nZW5yZTonYXZfZ2VucmVfa2lkcycpKSkgKGFuZCAob3IgZ2VucmU6J2F2X2dlbnJlX2FjdGlvbicgYXZfcHJpbWFyeV9nZW5yZTonYXZfZ2VucmVfYWN0aW9uJykgZW50aXR5X3R5cGU6J01vdmllJykpIChub3QgYXZfa2lkX2luX3RlcnJpdG9yeTonVVMnKSkmZmllbGQtaXNfcHJpbWVfYmVuZWZpdD0xJnNlYXJjaC1hbGlhcz1pbnN0YW50LXZpZGVvJnFzLWF2X3JlcXVlc3RfdHlwZT00JnFzLWlzLXByaW1lLWN1c3RvbWVyPTIiLCJydCI6IkkyN1VBT3NtciIsInR4dCI6IkFjdGlvbiBhbmQgYWR2ZW50dXJlIG1vdmllcyIsIm9mZnNldCI6MCwibnBzaSI6MCwib3JlcSI6IjEzMzE3ODQ2LTBkMmQtNDUxNC04NzhkLWJmYjVmMDkwYTc0NDoxNjc4MjMzMzM3MDAwIiwic3RyaWQiOiIxOjEyM1A5MjBPNE0zT05KIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0iLCJvcmVxayI6IkxpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9Iiwib3JlcWt2IjoxfQ%3D%3D&pageId=default&queryPageType=browse&ie=UTF8

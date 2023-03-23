@@ -11,8 +11,9 @@ data:
   description: 
     <p>Barney augments his team with new blood for a personal battle, to take down Conrad Stonebanks, the Expendables co-founder and notorious arms trader who is hell bent on wiping out Barney and every single one of his associates.</p>
   featured: false
+  trailer: https://www.youtube.com/embed/OuXkXJ1fPuk
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B00PGANUOW/ref=atv_br_def_r_br_c_I27UAOsmr_1_122
-  reviewRating: 
+  reviewRating: 9
   reviewComments:

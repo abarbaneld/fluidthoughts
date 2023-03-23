@@ -11,6 +11,7 @@ data:
   description: 
     <p>Under the tutelage of Rocky Balboa, newly crowned heavyweight champion Adonis Creed faces off against Viktor Drago, the son of Ivan Drago.</p>
   featured: false
+  trailer: https://www.youtube.com/embed/u22BXhMu4tI
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B07KPZNVTQ/ref=atv_br_def_r_br_c_unkc_1_19

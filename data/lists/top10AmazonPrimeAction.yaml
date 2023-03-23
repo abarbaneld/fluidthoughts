@@ -52,7 +52,7 @@ data:
       date: 3/19/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B00PGANUOW/ref=atv_br_def_r_br_c_I27UAOsmr_1_122
-      rating: 
+      rating: 9
     - title: Road House
       id: RoadHouse
       date: 3/20/2023

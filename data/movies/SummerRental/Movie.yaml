@@ -11,6 +11,7 @@ data:
   description: 
     <p>An overworked air-traffic controller takes his family on a beach vacation but is soon beset by series of mishaps.</p>
   featured: false
+  trailer: https://www.youtube.com/embed/DKg36LBVgfg
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/Summer-Rental-Carl-Reiner/dp/B0080LB5KA/ref=sr_1_1?crid=12OWK667NQ9NL&keywords=Summer+Rental&qid=1678136827&s=instant-video&sprefix=summer+rental%2Cinstant-video%2C88&sr=1-1

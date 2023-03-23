@@ -11,6 +11,7 @@ data:
   description: 
     <p>Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien "Tr-iPods" are invading the world and she has to uncover the secret in order to stop them.</p>
   featured: false
+  trailer: https://www.youtube.com/embed/DKg36LBVgfg
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/Scary-Movie-4-Anna-Faris/dp/B009TGX4AY/ref=sr_1_1?crid=MJPZPZ9VVS1W&keywords=Scary+Movie+4&qid=1678136794&s=instant-video&sprefix=scary+movie+4%2Cinstant-video%2C93&sr=1-1
