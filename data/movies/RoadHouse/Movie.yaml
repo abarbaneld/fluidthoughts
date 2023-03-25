@@ -15,5 +15,5 @@ data:
   services:
     - service: Amazon Prime
       serviceLink: https://www.amazon.com/gp/video/detail/B00FJUKLPK/ref=atv_br_def_r_br_c_I27UAOsmr_1_141
-  reviewRating: 
+  reviewRating: 7
   reviewComments:

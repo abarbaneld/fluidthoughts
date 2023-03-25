@@ -58,11 +58,11 @@ data:
       date: 3/20/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B00FJUKLPK/ref=atv_br_def_r_br_c_I27UAOsmr_1_141
-      rating: 
+      rating: 7
     - title: Highlander The Movie
       id: Highlander
       date: 3/21/2023
       service: Amazon Prime 
       serviceLink: https://www.amazon.com/gp/video/detail/B0051E9INK/ref=atv_br_def_r_br_c_I27UAOsmr_1_175
-      rating:             
+      rating: 5      
   genre: Action
