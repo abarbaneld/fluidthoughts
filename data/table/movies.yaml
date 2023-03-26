@@ -1,6 +1,6 @@
 # A Movie record
 data:
-  dbVersion: 2
+  dbVersion: 3
   dbName: fluidthoughts.net
   dbStoreName: movies
   movies:
@@ -19,7 +19,7 @@ data:
       description: 
         <p>Two dim-witted brothers dream of owning their own dance club or at least getting into the coolest and most exclusive club in town, The Roxbury.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/QCNwDSLw8M0
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Night-at-Roxbury-Will-Ferrell/dp/B008PZZHFU/ref=sr_1_1?keywords=a+night+at+the+roxbury&qid=1678136095&s=instant-video&sprefix=A+Night%2Cinstant-video%2C163&sr=1-1
@@ -39,7 +39,7 @@ data:
       description: 
         <p>A simpleton inventor becomes a superhero with a bulletproof costume and a low budget.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/GSFaU4cN-qI
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Blankman-Robin-Givens/dp/B000RLBCD6/ref=sr_1_1?crid=FVXWXY97GR0G&keywords=Blankman&qid=1678136130&s=instant-video&sprefix=blankman%2Cinstant-video%2C181&sr=1-1
@@ -79,7 +79,7 @@ data:
       description: 
         <p>A whiny news reporter is given the chance to step into God's shoes.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/fe-luzrqWSk
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Bruce-Almighty-Jim-Carrey/dp/B009CG3OPQ/ref=sr_1_1?crid=3DUQAA42GLQDK&keywords=bruce+almighty&qid=1678136329&s=instant-video&sprefix=Bruce+%2Cinstant-video%2C121&sr=1-1
@@ -199,7 +199,7 @@ data:
       description: 
         <p>A vampire Countess needs to drink the blood of a virgin in order to keep her eternal beauty. It seems that all is hopeless, until she bumps into Mark Kendall.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/G76nHx12ukk
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Once-Bitten-Jim-Carrey/dp/B081QXP44W/ref=sr_1_1?crid=3QPTR8L5ZL3RO&keywords=Once+Bitten&qid=1678136396&s=instant-video&sprefix=once+bitten%2Cinstant-video%2C155&sr=1-1
@@ -219,7 +219,7 @@ data:
       description: 
         <p>The autobiographical story of Howard Stern, the radio rebel who is now also a TV personality, an author and a movie star.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/c8pqttYzlc8
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Private-Parts-Howard-Stern/dp/B008Q00QFK/ref=sr_1_1?crid=3HTOBOMVGE4B5&keywords=Private+Parts&qid=1678136584&s=instant-video&sprefix=private+parts%2Cinstant-video%2C167&sr=1-1
@@ -259,7 +259,7 @@ data:
       description: 
         <p>Josh (Breckin Meyer) videotapes his affair with another girl and accidentally mails it to his girlfriend. Discovering the mistake, he tows two of his college buddies -- and one not-so-eager kid who happens to own the car -- on a raucous 1,800-mile road trip from Ithaca, N.Y., to Austin, Texas, to save his lifelong romance.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/ndri5CeMjI4
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Road-Trip-Breckin-Meyer/dp/B00581BQG8/ref=sr_1_1?crid=370YWVIKLQ6G0&keywords=Road+Trip&qid=1678145089&s=instant-video&sprefix=road+trip%2Cinstant-video%2C99&sr=1-1
@@ -279,7 +279,7 @@ data:
       description: 
         <p>After salesmen Danny (Paul Rudd) and Wheeler (Seann William Scott) trash a company truck, the court gives them a choice, jail time or community service in a mentoring program. Thinking to take the easy way out, the two overgrown adolescents find themselves paired with a teenager (Christopher Mintz-Plasse), who is experiencing the pangs of first love, and a foul-mouthed fifth-grader (Bobb'e J. Thompson), who needs an attitude adjustment.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/7RChtV9AH4M
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Models-Unrated-Seann-William-Scott/dp/B009CGQ2YG/ref=sr_1_1?crid=5B64GH54ZAP9&keywords=Role+Models&qid=1678145120&s=instant-video&sprefix=role+models%2Cinstant-video%2C98&sr=1-1
@@ -299,7 +299,7 @@ data:
       description: 
         <p>Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien "Tr-iPods" are invading the world and she has to uncover the secret in order to stop them.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/9PuhVxfxj8w
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Scary-Movie-4-Anna-Faris/dp/B009TGX4AY/ref=sr_1_1?crid=MJPZPZ9VVS1W&keywords=Scary+Movie+4&qid=1678136794&s=instant-video&sprefix=scary+movie+4%2Cinstant-video%2C93&sr=1-1
@@ -339,7 +339,7 @@ data:
       description: 
         <p>An overworked air-traffic controller takes his family on a beach vacation but is soon beset by series of mishaps.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/b7RiFOe8vJE
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Summer-Rental-Carl-Reiner/dp/B0080LB5KA/ref=sr_1_1?crid=12OWK667NQ9NL&keywords=Summer+Rental&qid=1678136827&s=instant-video&sprefix=summer+rental%2Cinstant-video%2C88&sr=1-1
@@ -360,7 +360,7 @@ data:
       description: 
         <p>A man discovers that his best friend's wife is having an affair and agonizes over what might happen if the truth gets out.</p>
       featured: false
-      trailer: https://www.youtube.com/embed/DKg36LBVgfg
+      trailer: https://www.youtube.com/embed/0WK6cYefv2I
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/Dilemma-Vince-Vaughn/dp/B004RC593U/ref=sr_1_1?crid=2R6FCOQYGC5W8&keywords=The+Delimma&qid=1678138601&s=instant-video&sprefix=the+delimma%2Cinstant-video%2C117&sr=1-1
@@ -407,3 +407,633 @@ data:
           serviceLink: https://www.amazon.com/gp/video/search/ref=atv_hm_hom_3_c_i27uao_9_smr?queryToken=eyJ0eXBlIjoicXVlcnkiLCJuYXYiOnRydWUsInBpIjoiZGVmYXVsdCIsInNlYyI6ImNlbnRlciIsInN0eXBlIjoic2VhcmNoIiwicXJ5IjoiZmllbGQtd2F5c190b193YXRjaD0xMjAwNzg2NTAxMSZwX25fZW50aXR5X3R5cGU9MTQwNjkxODQwMTEmYWR1bHQtcHJvZHVjdD0wJmJxPShhbmQgKGFuZCAoYW5kIGZpZWxkLWlzX3ByaW1lX2JlbmVmaXQ6JzEnIChub3QgKG9yIGdlbnJlOidhdl9nZW5yZV9lcm90aWMnIGF2X3ByaW1hcnlfZ2VucmU6J2F2X2dlbnJlX2Vyb3RpYycpKSAobm90IChvciBnZW5yZTonYXZfZ2VucmVfa2lkcycgYXZfcHJpbWFyeV9nZW5yZTonYXZfZ2VucmVfa2lkcycpKSkgKGFuZCAob3IgZ2VucmU6J2F2X2dlbnJlX2FjdGlvbicgYXZfcHJpbWFyeV9nZW5yZTonYXZfZ2VucmVfYWN0aW9uJykgZW50aXR5X3R5cGU6J01vdmllJykpIChub3QgYXZfa2lkX2luX3RlcnJpdG9yeTonVVMnKSkmZmllbGQtaXNfcHJpbWVfYmVuZWZpdD0xJnNlYXJjaC1hbGlhcz1pbnN0YW50LXZpZGVvJnFzLWF2X3JlcXVlc3RfdHlwZT00JnFzLWlzLXByaW1lLWN1c3RvbWVyPTIiLCJydCI6IkkyN1VBT3NtciIsInR4dCI6IkFjdGlvbiBhbmQgYWR2ZW50dXJlIG1vdmllcyIsIm9mZnNldCI6MCwibnBzaSI6MCwib3JlcSI6IjEzMzE3ODQ2LTBkMmQtNDUxNC04NzhkLWJmYjVmMDkwYTc0NDoxNjc4MjMzMzM3MDAwIiwic3RyaWQiOiIxOjEyM1A5MjBPNE0zT05KIyNNWlFXR1pMVU1WU0VHWUxTTjUyWEdaTE0iLCJvcmVxayI6IkxpNitvL2dzaDBoR0NjVGdhVGdLTHptYkF6dHpuZ29zb2VJMDZ6YWhmZEk9Iiwib3JlcWt2IjoxfQ%3D%3D&pageId=default&queryPageType=browse&ie=UTF8
       reviewRating: 7
       reviewComments: 
+    - id: Hellraiser2
+      title: "Hellraiser 2: Hell Bound"
+      tagLine: 
+      image: /data/movies/Hellraiser2/Poster.png
+      rating: R
+      year: 1988
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>Kirsty is brought to an institution after the horrible events of Hellraiser (1987), where the occult-obsessive head doctor resurrects Julia and unleashes the Cenobites and their demonic underworld.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/YkAVPV9m7xk
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.26a9f76c-bfbb-a3fd-f068-3dd7c3fa511e?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 1
+      reviewComments: 
+    - id: AReturnToSalemsLot
+      title: A Return to Salems Lot
+      tagLine: 
+      image: /data/movies/AReturnToSalemsLot/Poster.jpeg
+      rating: R
+      year: 1987
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 41m
+      description: 
+        <p>A man and his son vacation to the quiet vampire populated town of Salem's Lot.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/ImfWpDwE9sk
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.cd162ee3-2678-49d7-b5e8-778e3b257b8c?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 1
+      reviewComments:       
+    - id: House
+      title: House
+      tagLine: 
+      image: /data/movies/House/Poster.png
+      rating: R
+      year: 1985
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 33m
+      description: 
+        <p>A troubled writer moves into a haunted house after inheriting it from his aunt.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/9TSRT-cl-y8
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.64b50273-808e-c4c3-b7fa-27e93d7779f9?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 1
+      reviewComments:       
+    - id: BlairWitch2
+      title: "Blair Witch 2: Book of Shadows"
+      tagLine: 
+      image: /data/movies/BlairWitch2/Poster.png
+      rating: R
+      year: 2000
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 50m
+      description: 
+        <p>A group of tourists arrives in Burkittsville, Maryland after seeing The Blair Witch Project (1999) to explore the mythology and phenomenon, only to come face to face with their own neuroses and possibly the witch herself.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/rxANWqgmsFc
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d8a9f7ad-9abf-ea27-52bb-bad30c24461f?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 1
+      reviewComments:       
+    - id: DemonicToys
+      title: Demonic Toys
+      tagLine: 
+      image: /data/movies/DemonicToys/Poster.png
+      rating: R
+      year: 1992
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 23m
+      description: 
+        <p>A pregnant policewoman, her quarry, and an innocent delivery boy become trapped in a haunted toy warehouse.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/nQT2i4hXpVQ
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.14a9f7c1-894e-8426-ddb1-60d3222557a2?autoplay=0&ref_=atv_cf_strg_wb
+      reviewRating: 2
+      reviewComments:       
+    - id: SometimesTheyComback
+      title: Sometimes They Comeback
+      tagLine: 
+      image: /data/movies/SometimesTheyComback/Poster.jpeg
+      rating: R
+      year: 1991
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>A man and his family return to his hometown, where he is then harassed by teenagers who died when he was a kid.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/E2-ojRwoscg
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.72a9f7aa-bd12-5875-5a2f-57bd746fb214?autoplay=0&ref_=atv_cf_strg_wb
+      reviewRating: 2
+      reviewComments:       
+    - id: Candyman2021
+      title: Candyman
+      tagLine: 
+      image: /data/movies/Candyman2021/Poster.png
+      rating: R
+      year: 2021
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 31m
+      description: 
+        <p>A sequel to the horror film Candyman (1992) that returns to the now-gentrified Chicago neighborhood where the legend began.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/TPBH3XO8YEU
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.014b76c2-a5ea-46b4-955a-73041a71edfd?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 2
+      reviewComments:       
+    - id: TeenWolfToo
+      title: Teen Wolf Too
+      tagLine: 
+      image: /data/movies/TeenWolfToo/Poster.jpeg
+      rating: PG
+      year: 1987
+      genre:
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 35m
+      description: 
+        <p>Todd Howard is a struggling college student. Nothing seems to be going very well for him, until he turns into a wolf.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/rMaAZ1yWNEE
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f79c-b68a-031c-bd6f-b9d1f1f7fa49?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 3
+      reviewComments:       
+    - id: TeenWolf
+      title: Teen Wolf
+      tagLine: 
+      image: /data/movies/TeenWolf/Poster.png
+      rating: PG
+      year: 1985
+      genre:
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>An ordinary high school student discovers that his family has an unusual pedigree when he finds himself turning into a werewolf.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/6Sao1dXr9qI
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8ab56962-da2e-10c8-41f8-9063d8a0690d?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 3
+      reviewComments:       
+    - id: ChildrenOfTheCorn
+      title: Children of the Corn
+      tagLine: 
+      image: /data/movies/ChildrenOfTheCorn/Poster.png
+      rating: R
+      year: 1984
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 32m
+      description: 
+        <p>A young couple is trapped in a remote town where a dangerous religious cult of children believes that everyone over age 18 must be killed.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/dClKllEv5MU
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.34b6748a-ce4c-535f-12ce-3158c27d6e94?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 3
+      reviewComments:       
+    - id: Rings
+      title: Rings
+      tagLine: 
+      image: /data/movies/Rings/Poster.png
+      rating: PG-13
+      year: 2017
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 42m
+      description: 
+        <p>A young woman finds herself on the receiving end of a terrifying curse that threatens to take her life in 7 days.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/p17DJbPRLc0
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22ace7b5-3891-9f59-20f4-8d3a0c8f039a?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 4
+      reviewComments:       
+    - id: NightOfTheDemons
+      title: Night of the Demons
+      tagLine: 
+      image: /data/movies/NightOfTheDemons/Poster.png
+      rating: R
+      year: 2009
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 33m
+      description: 
+        <p>A group of kids go to a Halloween party, only to have to face down a group of demons.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/N93ZBaRFRgE
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccbaccd3-5880-346e-5a54-34e511dbf1c9?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 4
+      reviewComments:       
+    - id: ElviraMistressOfTheDark
+      title: Elvira Mistress of the Dark
+      tagLine: 
+      image: /data/movies/ElviraMistressOfTheDark/Poster.png
+      rating: PG-13
+      year: 1988
+      genre:
+        - Horror
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 36m
+      description: 
+        <p>Upon arriving in a small town where she has inherited a rundown mansion, a famous horror hostess battles an evil uncle, and townspeople who want her burned at the stake.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/AZdrAqH78l8
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d2b4f485-7c3c-ca97-42f9-48e6efd7e554?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 4
+      reviewComments:       
+    - id: OddThomas
+      title: Odd Thomas
+      tagLine: 
+      image: /data/movies/OddThomas/Poster.jpeg
+      rating: PG-13
+      year: 2013
+      genre:
+        - Horror
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>In a California desert town, a short-order cook with clairvoyant abilities encounters a mysterious man with a link to dark, threatening forces.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/CV_7tOWGvio
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.16b2f42a-8395-7af6-a70c-f862aa43d65a?ref_=imdbref_tt_wbr_pvs_piv&tag=imdbtag_tt_wbr_pvs_piv-20
+      reviewRating: 5
+      reviewComments:       
+    - id: Winchester
+      title: Winchester
+      tagLine: 
+      image: /data/movies/Winchester/Poster.jpeg
+      rating: PG-13
+      year: 2018
+      genre:
+        - Horror
+        - Drama
+      list:
+        - halloween2022
+      length: 1h 39m
+      description: 
+        <p>Ensconced in her sprawling San Jose, California mansion, eccentric firearm heiress Sarah Winchester (Dame Helen Mirren) believes she is haunted by the souls of people killed by the Winchester repeating rifle.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/UDVjX2OBrwc
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.2eb0ac18-1660-222c-51db-e253e81dcb6f?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 5
+      reviewComments:       
+    - id: Beetlejuice
+      title: Beetlejuice
+      tagLine: 
+      image: /data/movies/Beetlejuice/Poster.png
+      rating: PG
+      year: 1988
+      genre:
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 32m
+      description: 
+        <p></p>
+      featured: false
+      trailer: https://www.youtube.com/embed/po1HJbmow0g
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a43cdd55-9694-4527-98c2-cebed7834774?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 6
+      reviewComments:       
+    - id: SilentHill
+      title: Silent Hill
+      tagLine: 
+      image: /data/movies/SilentHill/Poster.png
+      rating: R
+      year: 2006
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 2h 5m
+      description: 
+        <p>A woman, Rose, goes in search for her adopted daughter within the confines of a strange, desolate town called Silent Hill.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/1mfnhu8sO5k
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.a8a9f74f-9567-9ce9-5f59-ccf4ec187c6b?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 6
+      reviewComments:       
+    - id: TheDevilsRejects
+      title: The Devils Rejects
+      tagLine: 
+      image: /data/movies/TheDevilsRejects/Poster.png
+      rating: R
+      year: 2005
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 47m
+      description: 
+        <p>The murderous, backwoods Firefly family take to the road to escape the vengeful Sheriff Wydell, who is not afraid of being as ruthless as his target.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/rK6HXh9zRdU
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.eab31af3-b3f6-86b2-2c8b-3d88e4267fd9?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 6
+      reviewComments:       
+    - id: FreddyVsJason
+      title: Freddy vs Jason
+      tagLine: 
+      image: /data/movies/FreddyVsJason/Poster.jpeg
+      rating: R
+      year: 2003
+      genre:
+        - Horror
+        - Action
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>Freddy Krueger and Jason Voorhees return to terrorize the teenagers of Elm Street. Only this time, they're out to get each other, too.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/ij9c4_yFwks
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.50a9f725-2fea-afcf-716f-0542ccdcc0dc?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 6
+      reviewComments:       
+    - id: AbrahamLincolnVampireHunter
+      title: Abraham Lincoln Vampire Hunter
+      tagLine: 
+      image: /data/movies/AbrahamLincolnVampireHunter/Poster.png
+      rating: R
+      year: 2012
+      genre:
+        - Horror
+        - Action
+      list:
+        - halloween2022
+      length: 1h 45m
+      description: 
+        <p>Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/yXulj8Lgcyg
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.0aa9f76d-c2a4-aeed-4ec3-68c19d90c0d4?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 7
+      reviewComments:       
+    - id: ThirteenGhosts
+      title: Thir13n Ghosts
+      tagLine: 
+      image: /data/movies/ThirteenGhosts/Poster.jpeg
+      rating: R
+      year: 2001
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 31m
+      description: 
+        <p>When Cyrus Kriticos, a very rich collector of unique things, dies, he leaves his house, fortune, and his prized collection of ghosts.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/n1yZl9HVLd0
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22a9f7a7-bdd0-a969-bdd5-68dc89e1f653?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 7
+      reviewComments:       
+    - id: TheMonsterSquad
+      title: The Monster Squad (1987)
+      tagLine: 
+      image: /data/movies/TheMonsterSquad/Poster.png
+      rating: PG-13
+      year: 1987
+      genre:
+        - Action
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 19m
+      description: 
+        <p>A young group of monster fanatics attempt to save their hometown from Count Dracula and his monsters.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/cJJsFGlC-FM
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.9aab85a5-1eb6-308b-112f-db6094416903?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 7
+      reviewComments:       
+    - id: Poltergeist
+      title: Poltergeist
+      tagLine: 
+      image: /data/movies/Poltergeist/Poster.png
+      rating: PG
+      year: 1982
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 54m
+      description: 
+        <p>A family's home is haunted by a host of demonic ghosts.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/9eZgEKjYJqA
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.1ab384c5-dcc0-d0c4-dc7a-412392da0de1?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 8
+      reviewComments:       
+    - id: FrightNight2011
+      title: Fright Night
+      tagLine: 
+      image: /data/movies/FrightNight2011/Poster.png
+      rating: R
+      year: 2011
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 46m
+      description: 
+        <p></p>
+      featured: false
+      trailer: https://www.youtube.com/embed/txgGhyjPZGg
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.c4a9f73b-30a7-62ba-f339-de1459605743?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 8
+      reviewComments:       
+    - id: Halloween1978
+      title: Halloween
+      tagLine: 
+      image: /data/movies/Halloween1978/Poster.jpeg
+      rating: R
+      year: 1978
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 50m
+      description: 
+        <p>Fifteen years after murdering his sister on Halloween night 1963, Michael Myers escapes from a mental hospital and returns to the small town of Haddonfield, Illinois to kill again.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/T5ke9IPTIJQ
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.8347d1c2-6570-4613-88bf-0e909a4e3cfc?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 8
+      reviewComments:       
+    - id: PhantasmIVOblivion
+      title: Phantasm IV Oblivion
+      tagLine: 
+      image: /data/movies/PhantasmIVOblivion/Poster.png
+      rating: R
+      year: 1998
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 30m
+      description: 
+        <p>Mike travels through time and dimensions to find the Tall Man's origins.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/L7C2I3hvqnQ
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.22aba242-2150-1915-7035-fccab395746f?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 9
+      reviewComments:       
+    - id: GhostbustersAfterlife
+      title: Ghostbusters Afterlife
+      tagLine: 
+      image: /data/movies/GhostbustersAfterlife/Poster.png
+      rating: PG-13
+      year: 2021
+      genre:
+        - Comedy
+        - Adventure
+      list:
+        - halloween2022
+      length: 2h 4m
+      description: 
+        <p>When a single mom and her two kids arrive in a small town, they begin to discover their connection to the original Ghostbusters and the secret legacy their grandfather left behind.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/ahZFCF--uRY
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.7d338e7c-1a55-4a15-9edd-0d6f6c4a850e?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 9
+      reviewComments:       
+    - id: Ghostbusters2 
+      title: Ghostbusters 2
+      tagLine: 
+      image: /data/movies/Ghostbusters2/Poster.png
+      rating: PG
+      year: 1989
+      genre:
+        - Comedy
+        - Action
+      list:
+        - halloween2022
+      length: 1h 48m
+      description: 
+        <p>The discovery of a massive river of ectoplasm and a resurgence of spectral activity allows the staff of Ghostbusters to revive the business.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/weIqC-oUGmA
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.36a9f72d-a523-0e10-9741-fe2e7a3a121c?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 9
+      reviewComments:       
+    - id: JohnCarpentersVampires
+      title: John Carpenters Vampires
+      tagLine: 
+      image: /data/movies/JohnCarpentersVampires/Poster.png
+      rating: R
+      year: 1998
+      genre:
+        - Horror
+      list:
+        - halloween2022
+      length: 1h 48m
+      description: 
+        <p>Recovering from an ambush that killed his entire team, a vengeful vampire slayer must retrieve an ancient Catholic relic that, should it be acquired by vampires, will allow them to walk in sunlight.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/iLMnslWrM2s
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.d6a9f72f-aa6a-0b0f-065a-80b3e26d2db5?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 10
+      reviewComments:       
+    - id: Ghostbusters
+      title: Ghostbusters
+      tagLine: 
+      image: /data/movies/Ghostbusters/Poster.png
+      rating: PG
+      year: 1984
+      genre:
+        - Comedy
+        - Action
+      list:
+        - halloween2022
+      length: 1h 45m
+      description: 
+        <p>Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/wQAljlSmjC8
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bca9f71f-81f5-1c3e-7f5f-f549ec2d8e15?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+      reviewRating: 10
+      reviewComments:       
+    - id: TheLostBoys
+      title: The Lost Boys
+      tagLine: 
+      image: /data/movies/TheLostBoys/Poster.png
+      rating: R
+      year: 1987
+      genre:
+        - Horror
+        - Comedy
+      list:
+        - halloween2022
+      length: 1h 37m
+      description: 
+        <p>After moving to a new town, two brothers discover that the area is a haven for vampires.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/Q786UsnOcsY
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04b769e4-a53f-e09b-6c49-06bd2dbeb5f3?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
+      reviewRating: 10
+      reviewComments:       

@@ -1,5 +1,5 @@
 data:
-  dbVersion: 1
+  dbVersion: 3
   dbName: fluidthoughts.net
   dbStoreName: lists
   lists:
@@ -11,3 +11,7 @@ data:
       title: Top 10 Amazon Prime Action Flicks
       startDate: 3/12/2023
       endDate: 3/21/2023
+    - id: halloween2022
+      title: 31 Nights of Halloween
+      startDate: 10/1/2022
+      endDate: 10/31/2022

@@ -31,15 +31,34 @@ self.addEventListener("install", function(event) {
   
   var addToCache = function(request){
     return caches.open("offline").then(function (cache) {
-      return fetch(request).then(function (response) {
-        console.log(response.url + " was cached");
-        return cache.put(request, response);
-      });
+      try {
+        if (
+          request.url.startsWith('chrome-extension') ||
+          request.url.includes('extension') ||
+          !(request.url.indexOf('http') === 0)
+        ) return;
+
+        if(request.method !== 'POST'){
+          return fetch(request).then(function (response) {
+            //console.log(response.url + " was cached");
+            try {
+              return cache.put(request, response);
+            } catch(e) {
+              console.error("Problem with Cache.",e);
+              return;
+            }
+          });
+        }
+      }catch(e){
+        console.error(`Error adding to cache. ${e}`);
+        console.debug(request);
+      }
     });
   };
   
   var returnFromCache = function(request){
     return caches.open("offline").then(function (cache) {
+      console.log("Loading from cache");
       return cache.match(request).then(function (matching) {
        if(!matching || matching.status == 404) {
          return cache.match("offline.html");
