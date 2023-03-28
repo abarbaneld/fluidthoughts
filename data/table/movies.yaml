@@ -1,7 +1,5 @@
 # A Movie record
 data:
-  dbVersion: 4
-  dbName: fluidthoughts.net
   dbStoreName: movies
   movies:
     - id: ANightAtTheRoxbury
