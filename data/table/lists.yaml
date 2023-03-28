@@ -1,8 +1,12 @@
 data:
-  dbVersion: 3
+  dbVersion: 4
   dbName: fluidthoughts.net
   dbStoreName: lists
   lists:
+    - id: top10AmazonPrimeScifi
+      title: Top 10 Amazon Prime Sci-fi movies
+      startDate: TBD
+      endDate: TBD
     - id: top10AmazonPrimeComedies
       title: Top 10 Amazon Prime Comedies
       startDate: 2/23/2023

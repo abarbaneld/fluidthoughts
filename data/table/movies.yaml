@@ -1,6 +1,6 @@
 # A Movie record
 data:
-  dbVersion: 3
+  dbVersion: 4
   dbName: fluidthoughts.net
   dbStoreName: movies
   movies:
@@ -1036,4 +1036,216 @@ data:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.04b769e4-a53f-e09b-6c49-06bd2dbeb5f3?ref_=imdbref_tt_wbr_pvt_aiv&tag=imdbtag_tt_wbr_pvt_aiv-20
       reviewRating: 10
-      reviewComments:       
+      reviewComments:
+    - id: EventHorizon
+      title: Event Horizon
+      tagLine: 
+      image: /data/movies/EventHorizon/Poster.jpg
+      rating: R
+      year: 1997
+      genre:
+        - Horror
+        - Scifi
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 36m
+      description: 
+        <p>A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/2nlkEY-3CMI
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B002S4JO26/ref=atv_br_def_r_br_c_fx2yr0smr_1_50
+      reviewRating: 
+      reviewComments:      
+    - id: Samaritan
+      title: Samaritan
+      tagLine: 
+      image: /data/movies/Samaritan/Poster.jpeg
+      rating: PG-13
+      year: 2022
+      genre:
+        - Drama
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 42m
+      description: 
+        <p>A young boy learns that a superhero who was thought to have died after an epic battle twenty-five years ago may in fact still be alive.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/9FKnTxSC16E
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B0B5M7YXZB/ref=atv_br_def_r_br_c_unkc_1_3
+      reviewRating: 
+      reviewComments:           
+    - id: IRobot
+      title: I Robot
+      tagLine: 
+      image: /data/movies/IRobot/Poster.jpg
+      rating: PG-13
+      year: 2004
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 55m
+      description: 
+        <p>In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity. Director</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/7Dlo-VB0-HI
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B000I9VZKW/ref=atv_br_def_r_br_c_unkc_1_7
+      reviewRating: 
+      reviewComments: 
+    - id: Robocop2014
+      title: Robocop
+      tagLine: 
+      image: /data/movies/Robocop2014/Poster.jpg
+      rating: PG-13
+      year: 2014
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 57m
+      description: 
+        <p>In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/xPLSpmAtc1Q
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B00IK590UI/ref=atv_br_def_r_br_c_unkc_1_14
+      reviewRating: 
+      reviewComments:
+    - id: GIJoeRetaliation
+      title: G.I. Joe Retaliation
+      tagLine: 
+      image: /data/movies/GIJoeRetaliation/Poster.jpeg
+      rating: PG-13
+      year: 2013
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 50m
+      description: 
+        <p>The G.I. Joes are not only fighting their mortal enemy Cobra; they are forced to contend with threats from within the government that jeopardize their very existence.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/2vAo4rJPqQ4
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B06XKMC9NX/ref=atv_br_def_r_br_c_unkc_1_11
+      reviewRating: 
+      reviewComments:
+    - id: VanillaSky
+      title: Vanilla Sky
+      tagLine: 
+      image: /data/movies/VanillaSky/Poster.jpeg
+      rating: R
+      year: 2001
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 2h 16m
+      description: 
+        <p>A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/k09OX40NLUw
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B000ICII5O/ref=atv_br_def_r_br_c_unkc_1_16
+      reviewRating: 
+      reviewComments: 
+    - id: Super8
+      title: Super 8
+      tagLine: 
+      image: /data/movies/Super8/Poster.jpeg
+      rating: PG-13
+      year: 2011
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 52m
+      description: 
+        <p>During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/DGe4fZZOiVI
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B0068THAGY/ref=atv_br_def_r_br_c_fx2yr0smr_1_24
+      reviewRating: 
+      reviewComments:                            
+    - id: IronSkyTheComingRace
+      title: Iron Sky The Coming Race
+      tagLine: 
+      image: /data/movies/IronSkyTheComingRace/Poster.jpeg
+      rating: NR
+      year: 2019
+      genre:
+        - Scifi
+        - Action
+        - Comedy
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 33m
+      description: 
+        <p>A follow-up to the film Iron Sky (2012) in which Nazis plan to take over the world after lying dormant in a secret military base on the moon.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/YC8Z6i59s7o
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B07TK6PKG1/ref=atv_br_def_r_br_c_fx2yr0smr_1_75
+      reviewRating: 
+      reviewComments: 
+    - id: HeavyMetal2000
+      title: Heavy Metal 2000
+      tagLine: 
+      image: /data/movies/HeavyMetal2000/Poster.jpeg
+      rating: R
+      year: 2000
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 28m
+      description: 
+        <p>After surviving an invasion on her peaceful homeworld, a beautiful avenger must stop a powerful psychopath from gaining immortality and rescue her kidnapped sister.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/U9PjBmQDzLw
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B002RTPL9C/ref=atv_br_def_r_br_c_fx2yr0smr_1_99
+      reviewRating: 
+      reviewComments: 
+    - id: DoubleDragon
+      title: Double Dragon
+      tagLine: 
+      image: /data/movies/DoubleDragon/Poster.jpg
+      rating: PG-13
+      year: 1994
+      genre:
+        - Scifi
+        - Action
+      list:
+        - top10AmazonPrimeScifi
+      length: 1h 36m
+      description: 
+        <p>Two brothers have half of a powerful ancient Chinese talisman. An evil gang leader has the other half, and determines to get the brothers' half and have a complete medallion so he can gain absolute power.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/7GZtU_Ouk2U
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/B07L5XQSN3/ref=atv_br_def_r_br_c_fx2yr0smr_1_183
+      reviewRating: 
+      reviewComments: 

@@ -1,5 +1,6 @@
 # A Movie lists
 data:
+  - name: top10AmazonPrimeScifi
   - name: top10AmazonPrimeAction
   - name: top10AmazonPrimeComedies
   - name: halloween2022
