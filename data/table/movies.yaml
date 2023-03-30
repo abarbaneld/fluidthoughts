@@ -1203,8 +1203,9 @@ data:
       services:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B07TK6PKG1/ref=atv_br_def_r_br_c_fx2yr0smr_1_75
-      reviewRating: 
+      reviewRating: 3
       reviewComments: 
+        <p>This was one of the absolutely worst films I have seen.</p><p>The story was slow and incoherent. Just absolute ridiculiousness. This movie is shit bound.</p>
     - id: HeavyMetal2000
       title: Heavy Metal 2000
       tagLine: 
