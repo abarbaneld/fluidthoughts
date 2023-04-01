@@ -1,0 +1,37 @@
+data:
+  dbStoreName: videogames
+  videogames:
+    - id: Destiny2
+      title: Destiny 2&colon; Light Fall
+      tagLine: 
+      image: /data/videogames/Destiny2LightFallPoster.png
+      esrbRating: T
+      year: 2023
+      developers:
+        - name: Bungie
+          link: https://www.bungie.net/
+      genre: 
+        - Adventure
+        - Arcade
+        - Shooter
+      platforms:
+        - release: Feb 28, 2023
+          name: Xbox One
+          link:
+        - release: Feb 28, 2023
+          name: PlayStation 4
+          link:
+        - release: Feb 28, 2023
+          name: PlayStation 5
+          link:
+        - release: Feb 28, 2023 
+          name: PC (Microsoft Windows)
+          link:
+        - release: Feb 28, 2023
+          platform: Xbox Series X|S  
+          link:
+      description: 
+        <p>Shattered glass glints in the starlight. Soldiers of the Shadow Legion battle with Guardians under the unmistakable shadows of the fleet overhead—the Witness and its newest disciple are here. Find strength in the Light, arm yourself with Darkness, and peer beyond the veil as you raise the stakes on an already unforgettable campaign. Travel to a destination unlike any you've explored in Destiny 2. Cross paths with bone-chilling Tormentors and valiant Cloud Striders, join the fight against the Shadow Legion, and prevent devastation in the technologically advanced secret city of Neomuna.</p>
+      trailer: https://www.youtube.com/embed/i-7Cq7LLPr4
+      reviewRating: 9
+      reviewComments: <p></p><p></p>

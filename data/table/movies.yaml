@@ -1247,4 +1247,23 @@ data:
         - service: Amazon Prime
           serviceLink: https://www.amazon.com/gp/video/detail/B07L5XQSN3/ref=atv_br_def_r_br_c_fx2yr0smr_1_183
       reviewRating: 
-      reviewComments: 
+      reviewComments:
+    - id: RevengeOfTheNerds 
+      title: Revenge Of The Nerds
+      tagLine: 
+      image: /data/movies/RevengeOfTheNerds/Poster.jpg
+      rating: R
+      year: 1984
+      genre:
+        - Comedy
+      list:
+        - random
+      length: 1h 30m
+      description: 
+        <p>At Adams College, a group of bullied outcasts and misfits resolve to fight back for their peace and self-respect.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/kIZH5TKnEeg
+      services:
+        - service: IFC
+      reviewRating: 7
+      reviewComments:

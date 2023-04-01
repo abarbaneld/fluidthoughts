@@ -1,6 +1,11 @@
 data:
   dbStoreName: lists
   lists:
+    - id: random
+      title: Random Movies I Watch with Friends
+      startDate: You Never Know
+      endDate: It Could Be Now
+      order: 5
     - id: top10AmazonPrimeScifi
       title: Top 10 Amazon Prime Sci-fi movies
       startDate: TBD
