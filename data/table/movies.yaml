@@ -1265,5 +1265,90 @@ data:
       trailer: https://www.youtube.com/embed/kIZH5TKnEeg
       services:
         - service: IFC
+          watchDate: 3/27/2023
       reviewRating: 7
       reviewComments:
+    - id: LethalWeapon
+      title: Lethal Weapon
+      tagLine: 
+      image: /data/movies/LethalWeapon/Poster.jpg
+      rating: R
+      year: 1987
+      genre:
+        - Action
+        - Comedy
+      list:
+        - random
+      length: 1h 49m
+      description: 
+        <p>Two newly paired cops who are complete opposites must put aside their differences in order to catch a gang of drug smugglers.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/bKeW-MGu-qQ
+      services:
+        - service: AMC
+          watchDate: 3/30/2023
+      reviewRating: 7
+      reviewComments:
+    - id: LethalWeapon2
+      title: Lethal Weapon 2
+      tagLine: 
+      image: /data/movies/LethalWeapon2/Poster.jpg
+      rating: R
+      year: 1989
+      genre:
+        - Action
+        - Comedy
+      list:
+        - random
+      length: 1h 54m
+      description: 
+        <p>Riggs and Murtaugh are on the trail of South African diplomats who are using their immunity to engage in criminal activities.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/ZbFE2P3tASI
+      services:
+        - service: AMC
+          watchDate: 3/30/2023
+      reviewRating: 7
+      reviewComments: 
+    - id: LethalWeapon3
+      title: Lethal Weapon 3
+      tagLine: 
+      image: /data/movies/LethalWeapon3/Poster.jpg
+      rating: R
+      year: 1992
+      genre:
+        - Action
+        - Comedy
+      list:
+        - random
+      length: 1h 58m
+      description: 
+        <p>Martin Riggs and Roger Murtaugh pursue a former LAPD officer who uses his knowledge of police procedure and policies to steal and sell confiscated guns and ammunition to local street gangs.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/PlJknryKpZs
+      services:
+        - service: AMC
+          watchDate: 3/30/2023
+      reviewRating: 7
+      reviewComments:
+    - id: LethalWeapon4
+      title: Lethal Weapon 4
+      tagLine: 
+      image: /data/movies/LethalWeapon4/Poster.jpg
+      rating: R
+      year: 1998
+      genre:
+        - Action
+        - Comedy
+      list:
+        - random
+      length: 2h 7m
+      description: 
+        <p>With personal crises and age weighing in on them, LAPD officers Riggs and Murtaugh must contend with deadly Chinese triads that are trying to free their former leaders out of prison and onto American soil.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/pi2cGmz9Q2A
+      services:
+        - service: AMC
+          watchDate: 3/30/2023
+      reviewRating: 6
+      reviewComments:      
