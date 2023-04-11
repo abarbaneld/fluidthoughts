@@ -1271,7 +1271,7 @@ data:
     - id: LethalWeapon
       title: Lethal Weapon
       tagLine: 
-      image: /data/movies/LethalWeapon/Poster.jpg
+      image: /data/movies/LethalWeapon/Poster.jpeg
       rating: R
       year: 1987
       genre:
@@ -1292,7 +1292,7 @@ data:
     - id: LethalWeapon2
       title: Lethal Weapon 2
       tagLine: 
-      image: /data/movies/LethalWeapon2/Poster.jpg
+      image: /data/movies/LethalWeapon2/Poster.jpeg
       rating: R
       year: 1989
       genre:
