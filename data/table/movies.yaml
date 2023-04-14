@@ -1352,3 +1352,23 @@ data:
           watchDate: 3/30/2023
       reviewRating: 6
       reviewComments:      
+    - id: PoliceAcademy
+      title: Police Academy
+      tagLine: 
+      image: /data/movies/PoliceAcademy/Poster.jpg
+      rating: R
+      year: 1984
+      genre:
+        - Comedy
+      list:
+        - random
+      length: 1h 36m
+      description: 
+        <p>A group of good-hearted, but incompetent misfits enter the police academy, but the instructors there are not going to put up with their pranks.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/4NT4C1F_HZE
+      services:
+        - service: AMC
+          watchDate: 4/13/2023
+      reviewRating: 7
+      reviewComments:       
