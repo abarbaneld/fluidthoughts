@@ -1371,4 +1371,46 @@ data:
         - service: AMC
           watchDate: 4/13/2023
       reviewRating: 7
-      reviewComments:       
+      reviewComments:
+    - id: WeekendAtBernies
+      title: Weekend At Bernies
+      tagLine: 
+      image: /data/movies/WeekendAtBernies/Poster.jpg
+      rating: PG-13
+      year: 1989
+      genre:
+        - Comedy
+      list:
+        - random
+      length: 1h 37m
+      description: 
+        <p>Two idiots try to pretend that their murdered employer is really alive, leading the hitman to attempt to track him down to finish him off.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/VMCh9gLZofo
+      services:
+        - service: AMC
+          watchDate: 4/14/2023
+      reviewRating: 8
+      reviewComments:
+    - id: AtomicBlonde
+      title: Atomic Blonde
+      tagLine: 
+      image: /data/movies/AtomicBlonde/Poster.jpg
+      rating: R
+      year: 2017
+      genre:
+        - Action
+      list:
+        - random
+      length: 1h 55m
+      description: 
+        <p>An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/JIqcMl0hzXs
+      services:
+        - service: IFC
+          watchDate: 4/14/2023
+      reviewRating: 
+      reviewComments:
+
+      
