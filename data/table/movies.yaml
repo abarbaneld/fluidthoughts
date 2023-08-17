@@ -1412,5 +1412,26 @@ data:
           watchDate: 4/14/2023
       reviewRating: 
       reviewComments:
+    - id: ViolentNight
+      title: Violent Night
+      tagLine: 
+      image: /data/movies/ViolentNight/Poster.jpg
+      rating: R
+      year: 2022
+      genre:
+        - Action
+      list:
+        - random
+      length: 1h 52m
+      description: 
+        <p>When a group of mercenaries attack the estate of a wealthy family, Santa Claus must step in to save the day (and Christmas).</p>
+      featured: false
+      trailer: https://www.youtube.com/embed/a53e4HHnx_s
+      services:
+        - service: Amazon Prime
+          serviceLink: https://www.amazon.com/gp/video/detail/amzn1.dv.gti.86a9f79c-b68a-031c-bd6f-b9d1f1f7fa49?ref_=imdbref_tt_wo_tp_pvt_aiv&tag=imdbtag_tt_wo_tp_pvt_aiv-20
+          watchDate: 8/16/2023
+      reviewRating: 10
+      reviewComments: This is one of the best movies I have seen in a long time.
 
       
